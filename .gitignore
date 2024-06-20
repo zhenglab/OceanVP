@@ -1,0 +1,8 @@
+# IDE
+.project
+.pydevproject
+.settings
+
+# Python
+**/__pycache__
+**/*.pkl
